@@ -14,7 +14,11 @@ I'm an **MSc Computer Engineering** candidate at [Bilkent University](https://w3
 - **Edge routing for SBML transcription/translation arcs**, modulation arcs, and association arcs in ChiSE ([#735](https://github.com/iVis-at-Bilkent/newt/issues/735), [#736](https://github.com/iVis-at-Bilkent/newt/issues/736), [#740](https://github.com/iVis-at-Bilkent/newt/issues/740), [#742](https://github.com/iVis-at-Bilkent/newt/issues/742))
 - **Gene-query input validation** for Newt's pathway query interface ([#709](https://github.com/iVis-at-Bilkent/newt/issues/709))
 
-📐 **Computational geometry:** higher-order Voronoi diagrams for k-NN query acceleration ([repo](https://github.com/NoorMuhammad1/higher-order-voronoi)).
+### MSc coursework projects (Bilkent)
+- [`higher-order-voronoi`](https://github.com/NoorMuhammad1/higher-order-voronoi) — Computational Geometry
+- [`visual-anomaly-detection-robot`](https://github.com/NoorMuhammad1/visual-anomaly-detection-robot) — Computer Vision
+- [`turkish-author-clustering`](https://github.com/NoorMuhammad1/turkish-author-clustering) — Information Retrieval
+- [`image-poisoning-osn-defense`](https://github.com/NoorMuhammad1/image-poisoning-osn-defense) — Data Privacy
 
 ### Where to find me
 
