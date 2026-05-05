@@ -1,6 +1,6 @@
 ## Hi, I'm Noor 👋
 
-I'm an **MSc Computer Engineering** candidate at [Bilkent University](https://w3.cs.bilkent.edu.tr/) (Ankara, Turkey), supervised by [Prof. Uğur Doğrusöz](https://w3.cs.bilkent.edu.tr/~ugur/) in the [iVis](https://ivis.cs.bilkent.edu.tr/) (Information Visualization) research group. I build interactive systems for **graph visualization, graph databases, and the algorithmic foundations of visual analytics**, with side interests in **graph-structured machine learning**, **computational geometry**, and **research software quality**.
+I'm an **MSc Computer Engineering** candidate at [Bilkent University](https://w3.cs.bilkent.edu.tr/) (Ankara, Turkey), supervised by [Prof. Uğur Doğrusöz](https://w3.cs.bilkent.edu.tr/~ugur/) in the [iVis](https://newt.cs.bilkent.edu.tr/) (Information Visualization) research group. I build interactive systems for **graph visualization, graph databases, and the algorithmic foundations of visual analytics**, with side interests in **graph-structured machine learning**, **computational geometry**, and **research software quality**.
 
 ### Highlights
 
