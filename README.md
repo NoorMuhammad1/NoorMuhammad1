@@ -1,6 +1,8 @@
 ## Hi, I'm Noor 👋
 
-I recently completed my **MSc in Computer Engineering** at [Bilkent University](https://w3.cs.bilkent.edu.tr/) (Ankara, Turkey, March 2026), advised by [Prof. Uğur Doğrusöz](https://w3.cs.bilkent.edu.tr/~ugur/) in the [iVis](https://newt.cs.bilkent.edu.tr/) (Information Visualization) research group. I build interactive systems for **graph visualization, graph databases, and the algorithmic foundations of visual analytics**, with side interests in **graph-structured machine learning**, **computational geometry**, and **research software quality**.
+I'm a **PhD researcher at [TUM Campus Heilbronn](https://www.tum.de/en/about-tum/our-campuses/campus-heilbronn)** in Prof. Stephen Kobourov's Chair of Efficient Algorithms, since November 2026. My project is **[REVisPro](https://www.cs.cit.tum.de/bpm/projects/revispro/)**, a tandem with Prof. Stefanie Rinderle-Ma's group in Garching. They use generative AI to extract compliance rules from regulatory text, and I work on visualizing those rules so people can explore them and check their processes against them.
+
+Before TUM I did my **MSc in Computer Engineering** at [Bilkent University](https://w3.cs.bilkent.edu.tr/) (Ankara, March 2026) with [Prof. Uğur Doğrusöz](https://w3.cs.bilkent.edu.tr/~ugur/) in the [iVis](https://newt.cs.bilkent.edu.tr/) group, building interactive systems for **graph visualization and graph databases**. Side interests are **graph-structured machine learning**, **computational geometry**, and **research software quality**.
 
 ### Highlights
 
@@ -20,6 +22,11 @@ I'm a co-developer of **[Newt](https://github.com/iVis-at-Bilkent/newt)** and **
 - **Edge routing for SBML transcription/translation, modulation, and association arcs** in ChiSE ([#735](https://github.com/iVis-at-Bilkent/newt/issues/735), [#736](https://github.com/iVis-at-Bilkent/newt/issues/736), [#740](https://github.com/iVis-at-Bilkent/newt/issues/740), [#742](https://github.com/iVis-at-Bilkent/newt/issues/742))
 - **Gene-query input validation** for Newt's pathway query interface ([#709](https://github.com/iVis-at-Bilkent/newt/issues/709))
 
+### Research side projects (2026)
+
+- 🧬 **[sbgn-pd-biocypher-adapter](https://github.com/NoorMuhammad1/sbgn-pd-biocypher-adapter)** turns SBGN-PD pathway maps into a typed, Biolink-aligned knowledge graph. Listed on the official BioCypher adapters page ([biocypher#579](https://github.com/biocypher/biocypher/issues/579)).
+- 📊 **[pathway-prior-depmap](https://github.com/NoorMuhammad1/pathway-prior-depmap)** is a preregistered pilot asking whether a pathway-graph prior helps predict cancer gene dependencies on a held-out lineage (R-GCN vs a parameter-matched flat baseline, DepMap 24Q4).
+
 ### Selected coursework projects (Bilkent MSc)
 
 - 📐 **[higher-order-voronoi](https://github.com/NoorMuhammad1/higher-order-voronoi)** — k-th order Voronoi diagrams as a spatial index for k-NN queries; classical-from-scratch + SciPy implementations and an interactive matplotlib visualizer (CS 567, Computational Geometry).
@@ -34,9 +41,10 @@ I'm a co-developer of **[Newt](https://github.com/iVis-at-Bilkent/newt)** and **
 
 ### Where to find me
 
-- 💼 **CV / contact:** [LinkedIn](https://linkedin.com/in/n-muhammad0900)
-- 📧 **Email:** zainnoor6035020@gmail.com
-- 🏛 **Lab:** [iVis at Bilkent](https://github.com/iVis-at-Bilkent)
+- 🌐 **Portfolio and CV:** [noormuhammad1.github.io](https://noormuhammad1.github.io)
+- 💼 **LinkedIn:** [in/n-muhammad0900](https://linkedin.com/in/n-muhammad0900)
+- 📧 **Email:** noor.muhammad@tum.de
+- 🏛 **Now:** TUM Campus Heilbronn · **Before:** [iVis at Bilkent](https://github.com/iVis-at-Bilkent)
 
 ### Stack
 
@@ -44,5 +52,4 @@ I'm a co-developer of **[Newt](https://github.com/iVis-at-Bilkent/newt)** and **
 
 ### Currently
 
-<!-- SWAP THIS PARAGRAPH PER APPLICATION TARGET — see profile_variants.md -->
-Applying for **funded PhD positions in Europe** in graph drawing, network visualization, graph-based machine learning, computational geometry, and research software quality. If you're a researcher in any of these areas — or know someone who is — I'd love to talk.
+Starting my PhD on **visualizing regulatory compliance rules** at TUM Heilbronn. If you work on graph drawing, visual analytics or process compliance, or your company deals with compliance and wants to compare notes, I'd be glad to talk.
